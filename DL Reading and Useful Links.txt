@@ -1,0 +1,8 @@
+
+
+Goodfellow book - https://www.deeplearningbook.org
+paperswithcode - https://paperswithcode.com
+
+Изисквания за статия ревюта - 
+
+KerasTuner за grid search/ CV
